@@ -5,7 +5,7 @@ public class Car {
 	String Name;
 	int price;
 	String Engine;
-	
+	//Adding variables 
 	public Car(String name,int price,String engine){
 		
 		this.Name=name;
